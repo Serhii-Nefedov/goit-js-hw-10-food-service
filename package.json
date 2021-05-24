@@ -1,5 +1,5 @@
 {
-  "name": "webpack-goit-js-hw-10-food-service",
+  "name": "hom-w-12-web-tr",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Serhii-Nefedov/goit-js-hw-10-food-service"
+    "url": "git+https://github.com/Serhii-Nefedov/hom-w-12-web-tr.git"
   },
   "keywords": [],
   "author": "Serhii-Nafedov <uvaafestival@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Serhii-Nefedov/goit-js-hw-10-food-service"
+    "url": "https://github.com/Serhii-Nefedov/hom-w-12-web-tr"
   },
-  "homepage": "https://Serhii-Nefedov.github.io/goit-js-hw-10-food-service",
+  "homepage": "https://Serhii-Nefedov.github.io/hom-w-12-web-tr",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
@@ -50,6 +50,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "handlebars": "^4.7.6"
+    "handlebars": "^4.7.7",
+    "lodash": "^4.17.21",
+    "lodash.debounce": "^4.0.8",
+    "pnotify": "^5.2.0"
   }
 }
